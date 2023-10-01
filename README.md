@@ -2,12 +2,13 @@
 
 This repo holds my notes from when I learned information theory in summer 2023.
 
- - Chapter1: Probability 
- - Chapter2: Measure of Information 
- - Chapter3: Entropy Rate 
- - Chapter4: Markov Chains 
- - Chapter5: Source Coding: Lossless Compression 
- - Chapter6: Channel Coding
+ - Chapter1: [Probability](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter1.pdf) 
+ - Chapter2: [Measure of Information](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter2.pdf) 
+ - Chapter3: [Entropy Rate](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter3.pdf) 
+ - Chapter4: [Markov Chains](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter4.pdf) 
+ - Chapter5: [Source Coding: Lossless Compression](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter5.pdf) 
+ - Chapter6: [Channel Coding](https://github.com/jesseLiu2000/Information_Theory_notes/blob/main/chapter6.pdf)
+
 
 Reference:
 
