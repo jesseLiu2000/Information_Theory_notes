@@ -10,6 +10,9 @@ This repo holds my notes from when I learned information theory in summer 2023.
  - Chapter6: Channel Coding
 
 Reference:
+
+
+
 [https://www.probabilitycourse.com/](https://www.probabilitycourse.com/)
 [](https://mbernste.github.io/posts/self_info/#:~:text=Information%20theory%20considers%20information%20to,been%20something%20we%20were%20expecting)[https://mbernste.github.io/posts/self_info/#:~:text=Information](https://mbernste.github.io/posts/self_info/#:~:text=Information) 
 
